@@ -38,9 +38,13 @@ The repository includes:
 
 
  📚 Topics Covered
+ 
     -Regular Expressions
+    
     -Finite Automata
+    
     -String Processing
+    
     -Compiler Basics
 
 
